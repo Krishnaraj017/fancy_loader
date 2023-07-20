@@ -34,4 +34,4 @@ Choose the animation type and customize it to your liking.
 Integrate the loading indicators into your app's loading screens.
 
 Voilà! Watch your loading screens come to life with style and finesse!
-Enhance your app's loading screens with Fancy Loader and give your users an experience they won't forget. Join thousands of Flutter developers who have already embraced the beauty of Fancy Loader in their apps!
+Enhance your app's loading screens with Fancy Loader and give your users an experience they won't forget.
